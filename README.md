@@ -7,9 +7,10 @@ The codes are under developed.
 ### Structure:
 * make_array.ipynb: convert tree into numpy array, and save those array to h5 formart
 * work_all.ipynb: apply training, testing, and examination
-* write2tree.ipynb: write the output results from DNN back to trees to further studies
+* write2tree.ipynb: write the DNN output results back to trees for further studies
 
 If you are runing the code in your local PC, please install Keras[https://keras.io/]
 and its relevant tools firstly.
+
 To use the notebooks, please install Jupyter.
 If without Jupyter, you can extract each code in notebook into separate python scripts.
